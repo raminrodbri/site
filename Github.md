@@ -1,6 +1,11 @@
 # انتخاب سریع
  
 **<a href="https://github.com/new">``مخزن جدید ``</a>**
+‌‌**<a href="https://github.com/raminrodbri/PNG-JPG/upload">``آپلود عکس``</a>
+<a href="https://github.com/raminrodbri/HTML-CSS/upload/">``آپلودHTML-CSS``</a>
+‌<a href="https://github.com/raminrodbri/HTML/upload">``اپلود HTML``</a>
+‌<a href="https://github.com/raminrodbri/CSS/upload/">``آپلود CSS``</a>**
+**<a href="">``نوشتن کد HTML``</a><a href="">``نوشتن کد CSS``</a><a href="https://github.com/raminrodbri/HTML-CSS">``هر دو``</a>**
 ***
 **<a href="https://github.com/dashboard">``داشبورد``</a>**
 ***
@@ -9,12 +14,6 @@
 **<a href="https://github.com/settings/profile">``پروفایل``</a>**
 ***
 **<a href="https://github.com/settings">``تنظیمات``</a>**
-***
-**<a href="#">``#``</a>**
-***
-**<a href="#">``#``</a>**
-***
-**<a href="#">``#``</a>**
 ***
 ## مخزن ها 
 ***
