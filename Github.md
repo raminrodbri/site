@@ -4,11 +4,11 @@
 ***
 **<a href="https://github.com/dashboard">``داشبورد``</a>**
 ***
-**<a href="#">``#``</a>**
+**<a href="https://github.com/explore">``کاوش``</a>**
 ***
-**<a href="#">``#``</a>**
+**<a href="https://github.com/settings/profile">``پروفایل``</a>**
 ***
-**<a href="#">``#``</a>**
+**<a href="https://github.com/settings">``تنظیمات``</a>**
 ***
 **<a href="#">``#``</a>**
 ***
