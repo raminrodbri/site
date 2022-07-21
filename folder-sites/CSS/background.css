@@ -1,0 +1,16 @@
+/*bacgerand*/
+
+.img-bac-image-2 {
+    background-repeat: no-repeat;
+    background-repeat-x: no-repeat;
+    background-repeat-y: no-repeat;
+    background-position: center center;
+    background-position-x: center;
+    background-position-y: center;
+    background-attachment: fixed;
+}
+
+.img-bac-image-2 { background-size: cover; 
+   background-color: rgb(70, 90, 40);
+	 background-image: url(/*none.jpg*/);
+}
